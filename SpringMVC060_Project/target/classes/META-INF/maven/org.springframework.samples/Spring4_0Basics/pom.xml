@@ -9,7 +9,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		
 	
-		<spring-ioc.version>4.0.9.RELEASE</spring-ioc.version>
+		<spring-ioc.version>5.2.22.RELEASE</spring-ioc.version>
 		<hibernate.version>4.3.10.Final</hibernate.version>
 		
 	</properties>
